@@ -43,3 +43,8 @@ function ekle(event)
     }
     document.body.innerHTML += yazi; 
 }
+
+function yapma(event)
+{
+    event.stopPropagation();
+}
