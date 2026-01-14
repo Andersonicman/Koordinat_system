@@ -62,3 +62,6 @@ Bu proje, kullanıcının web sayfası üzerinde yaptığı **çift tıklamalard
 
 Bu proje JavaScript event yönetimi, dizi kullanımı ve DOM manipülasyonu pratiği amacıyla geliştirilmiştir.
 
+## GÜNCELLEME!!!
+İnputtan koordinat bilgilerinin alınmasını engellemek için yapma(event) adında bir fonksiyon eklenmiştir.
+
